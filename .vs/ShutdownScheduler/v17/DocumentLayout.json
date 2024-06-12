@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programozas\\test\\ShutdownScheduler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5D9A8A-0E4A-426E-8371-985862B8069A}|ShutdownScheduler\\ShutdownScheduler.csproj|D:\\Programozas\\test\\ShutdownScheduler\\shutdownscheduler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F5D9A8A-0E4A-426E-8371-985862B8069A}|ShutdownScheduler\\ShutdownScheduler.csproj|solutionrelative:shutdownscheduler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F5D9A8A-0E4A-426E-8371-985862B8069A}|ShutdownScheduler\\ShutdownScheduler.csproj|d:\\programozas\\test\\shutdownscheduler\\shutdownscheduler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F5D9A8A-0E4A-426E-8371-985862B8069A}|ShutdownScheduler\\ShutdownScheduler.csproj|solutionrelative:shutdownscheduler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Programozas\\test\\ShutdownScheduler\\ShutdownScheduler\\Form1.cs",
+              "RelativeDocumentMoniker": "ShutdownScheduler\\Form1.cs",
+              "ToolTip": "D:\\Programozas\\test\\ShutdownScheduler\\ShutdownScheduler\\Form1.cs",
+              "RelativeToolTip": "ShutdownScheduler\\Form1.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:05:18.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Programozas\\test\\ShutdownScheduler\\ShutdownScheduler\\Form1.cs",
+              "RelativeDocumentMoniker": "ShutdownScheduler\\Form1.cs",
+              "ToolTip": "D:\\Programozas\\test\\ShutdownScheduler\\ShutdownScheduler\\Form1.cs [Design]",
+              "RelativeToolTip": "ShutdownScheduler\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:03:12.468Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

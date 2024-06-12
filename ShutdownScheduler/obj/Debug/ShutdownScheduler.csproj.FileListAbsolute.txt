@@ -1,0 +1,10 @@
+D:\Programozas\test\ShutdownScheduler\ShutdownScheduler\bin\Debug\ShutdownScheduler.exe.config
+D:\Programozas\test\ShutdownScheduler\ShutdownScheduler\bin\Debug\ShutdownScheduler.exe
+D:\Programozas\test\ShutdownScheduler\ShutdownScheduler\bin\Debug\ShutdownScheduler.pdb
+D:\Programozas\test\ShutdownScheduler\ShutdownScheduler\obj\Debug\ShutdownScheduler.csproj.AssemblyReference.cache
+D:\Programozas\test\ShutdownScheduler\ShutdownScheduler\obj\Debug\ShutdownScheduler.Properties.Resources.resources
+D:\Programozas\test\ShutdownScheduler\ShutdownScheduler\obj\Debug\ShutdownScheduler.csproj.GenerateResource.cache
+D:\Programozas\test\ShutdownScheduler\ShutdownScheduler\obj\Debug\ShutdownScheduler.csproj.CoreCompileInputs.cache
+D:\Programozas\test\ShutdownScheduler\ShutdownScheduler\obj\Debug\ShutdownScheduler.exe
+D:\Programozas\test\ShutdownScheduler\ShutdownScheduler\obj\Debug\ShutdownScheduler.pdb
+D:\Programozas\test\ShutdownScheduler\ShutdownScheduler\obj\Debug\ShutdownScheduler.MainWindow.resources
